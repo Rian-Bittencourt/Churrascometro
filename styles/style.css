@@ -1,0 +1,52 @@
+
+body{background-image: url(../imgs/banner.jpg);background-repeat: no-repeat;background-size: cover;}
+
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1000px;
+    min-width: 300px;
+    min-height: 400px;
+   
+    text-align: center;
+    background: rgba(68, 15, 17, 0.94);
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    padding: 20px;
+    
+    
+   
+}
+.center{display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+   
+}
+h1{color: brown;}
+input{
+    width: 25%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #6B2222;
+    border: none;
+    color: bisque;
+    text-align: center;
+
+}
+
+button{
+    border-radius: 10px;
+    width: 20%;
+    height: 40px;
+    background-color: brown;
+    color: wheat;
+    margin-top: 20px;
+
+}
+p{text-align: center;color: wheat;background-image: url(/imgs/carne-icon.png);display: inline;top: 50px;position: relative;padding: 20px;font-size: 1.2rem;}
+img{margin-right: 5px;position: relative;top: 5px;}
+
