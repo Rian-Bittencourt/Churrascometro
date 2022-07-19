@@ -1,4 +1,4 @@
-É um programa que calcula a quantidade de carne/cerveja/refrigerante necessário para um churrasco baseado na quantidade de adulto/criança/duração, feito em Javascript e HTML puro.
+É um programa que calcula a quantidade de carne/cerveja/refrigerante necessário para um churrasco baseado na quantidade de adulto/criança/duração, feito em Javascript/HTML/CSS puro.
 
 LOGICA:
 // Carne - 400 gr por pessoa   + de 6 horas - 650
